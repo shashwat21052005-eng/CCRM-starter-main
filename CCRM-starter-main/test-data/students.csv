@@ -1,0 +1,4 @@
+id,regNo,fullName,email,status
+1,REG1001,Ada Lovelace,ada@example.edu,ACTIVE
+2,REG1002,Alan Turing,alan@example.edu,ACTIVE
+3,REG1003,Grace Hopper,grace@example.edu,INACTIVE
